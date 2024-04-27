@@ -1,0 +1,12 @@
+# Ignore editor files
+*.swp
+.vscode/
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore virtual environment directory
+venv/
+
+# Ignore .env file
+.env
